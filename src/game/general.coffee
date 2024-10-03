@@ -43,7 +43,7 @@ Game.setDifficultyProperties = (difficulty) ->
 
   Game.difficulty = difficulty
   Game.money = config.money
-  Game.lifes = config.lifes
+  Game.lifes = 10
   Game.moneyAfterWave = config.moneyAfterWave
   Game.towers =
     'FlowerTower': config.towers.FlowerTower
