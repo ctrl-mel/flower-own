@@ -1,7 +1,7 @@
 Game.difficulties =
     'Easy':
       textColor: 'green'
-      tooltip: '100 lifes, normal prices, lots of money'
+      tooltip: '10 lifes, normal prices, lots of money'
       x: 0
       y: 0
       money: 60
@@ -14,7 +14,7 @@ Game.difficulties =
 
     'Normal':
       textColor: 'yellow'
-      tooltip: '40 lifes, normal prices, normal amount of money'
+      tooltip: '10 lifes, normal prices, normal amount of money'
       x: 1
       y: 0
       money: 30
@@ -27,7 +27,7 @@ Game.difficulties =
 
     'Hard':
       textColor: 'red'
-      tooltip: '15 lifes, normal prices, less money after waves'
+      tooltip: '11 lifes, normal prices, less money after waves'
       x: 0
       y: 1
       money: 25
